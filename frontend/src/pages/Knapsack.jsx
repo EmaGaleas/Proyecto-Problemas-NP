@@ -1,14 +1,14 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import fondoMexico from '../assets/mexico/fondo1.png';
+import fondoCanada from '../assets/canada/fondo1.png';
 
-export default function ColoracionGrafo() {
+export default function Knapsack() {
   const navigate = useNavigate();
 
   return (
     <div 
       className="w-screen h-screen overflow-hidden relative select-none bg-black flex flex-col items-center justify-center text-white bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(${fondoMexico})` }}
+      style={{ backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(${fondoCanada})` }}
     >
       {/* Botón Volver Dorado Profesional */}
       <button
@@ -20,9 +20,9 @@ export default function ColoracionGrafo() {
 
       {/* Contenido principal de tu algoritmo */}
       <div className="z-10 text-center">
-        <h1 className="text-4xl font-black tracking-wider uppercase mb-4">Coloración de Grafos</h1>
+        <h1 className="text-4xl font-black tracking-wider uppercase mb-4">Knapsack Problem</h1>
         <div className="p-6 bg-black/30 backdrop-blur-sm border border-white/10 rounded-2xl max-w-md">
-          <p className="text-gray-300">Espacio de trabajo para la asignación inteligente de estadios y horarios.</p>
+          <p className="text-gray-300">Espacio de trabajo para el desarrollo del Algoritmo de la Mochila.</p>
         </div>
       </div>
     </div>
