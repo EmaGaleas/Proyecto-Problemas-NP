@@ -20,9 +20,8 @@ def cargar_grafo_fifa(ruta_json: str) -> Tuple[Dict, List[Tuple[int, int]]]:
                 "fase": nombre_fase.replace("_", " ").title()
             }
             
-    # Tiempo: O(V²) conflictos por fecha
     lista_ids = list(vertices.keys())
-    for i in range(len(lista_ids)):
+    for i in range(len(lista_ids)):          # O(V²) — genera aristas entre partidos del mismo día
         for j in range(i + 1, len(lista_ids)):
             id_u = lista_ids[i]
             id_v = lista_ids[j]
@@ -32,15 +31,15 @@ def cargar_grafo_fifa(ruta_json: str) -> Tuple[Dict, List[Tuple[int, int]]]:
     return vertices, aristas
 
 POOL_COLORES = [
-    { "id_color": 1, "etiqueta": "Color 1 (Marciniak)", "capacidad_reuso": 4 },
-    { "id_color": 2, "etiqueta": "Color 2 (Oliver)", "capacidad_reuso": 4 },
-    { "id_color": 3, "etiqueta": "Color 3 (Turpin)", "capacidad_reuso": 4 },
-    { "id_color": 4, "etiqueta": "Color 4 (Ramos)", "capacidad_reuso": 4 },
-    { "id_color": 5, "etiqueta": "Color 5 (Tello)", "capacidad_reuso": 3 },
-    { "id_color": 6, "etiqueta": "Color 6 (Claus)", "capacidad_reuso": 3 },
-    { "id_color": 7, "etiqueta": "Color 7 (Makkelie)", "capacidad_reuso": 3 },
-    { "id_color": 8, "etiqueta": "Color 8 (Elfath)", "capacidad_reuso": 3 },
-    { "id_color": 9, "etiqueta": "Color 9 (Ghorbal)", "capacidad_reuso": 2 },
-    { "id_color": 10, "etiqueta": "Color 10 (Zwayer)", "capacidad_reuso": 2 },
-    { "id_color": 11, "etiqueta": "Color 11 (Barton)", "capacidad_reuso": 2 }
+    { "id_color": 1, "etiqueta": "Szymon Marciniak", "pais": "POL", "capacidad_reuso": 4 }, 
+    { "id_color": 2, "etiqueta": "Ivan Barton", "pais": "SLV", "capacidad_reuso": 4 },     
+    { "id_color": 3, "etiqueta": "Saíd Martínez", "pais": "HON", "capacidad_reuso": 4 },   
+    { "id_color": 4, "etiqueta": "Jesús Valenzuela", "pais": "VEN", "capacidad_reuso": 4 },
+    { "id_color": 5, "etiqueta": "Istvan Kovacs", "pais": "ROU", "capacidad_reuso": 3 },    
+    { "id_color": 6, "etiqueta": "Slavko Vincic", "pais": "SVN", "capacidad_reuso": 3 },    
+    { "id_color": 7, "etiqueta": "Cristian Garay", "pais": "CHI", "capacidad_reuso": 3 },   
+    { "id_color": 8, "etiqueta": "Dahane Beida", "pais": "MTN", "capacidad_reuso": 3 },    
+    { "id_color": 9, "etiqueta": "Abdulrahman Al-Jassim", "pais": "QAT", "capacidad_reuso": 2 }, 
+    { "id_color": 10, "etiqueta": "Adham Makhadmeh", "pais": "JOR", "capacidad_reuso": 2 },      
+    { "id_color": 11, "etiqueta": "Ma Ning", "pais": "CHN", "capacidad_reuso": 2 }              
 ]

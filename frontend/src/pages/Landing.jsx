@@ -132,7 +132,7 @@ export default function Landing() {
                     title="Ingresar a la magia del futbol"
                   >
                     <span className="transform transition-transform duration-300 group-hover:scale-105 inline-block font-sans">
-                      Go
+                      Go!
                     </span>
                   </button>
                 </div>

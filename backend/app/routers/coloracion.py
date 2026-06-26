@@ -22,7 +22,6 @@ FASES = {
     "final":         {103, 104},           #  2 partidos (3er puesto + final)
 }
 
-
 def _construir_respuesta(vertices: dict, aristas: list, etiqueta: str) -> dict:
     inicio = time.perf_counter()
     asignacion, num_cromatico, _ = coloracion_arbitros(vertices, aristas, POOL_COLORES)
@@ -39,12 +38,17 @@ def _construir_respuesta(vertices: dict, aristas: list, etiqueta: str) -> dict:
     for v_id, data_vertice in vertices.items():
         c_id = asignacion.get(v_id)
         color_info = next((c for c in POOL_COLORES if c["id_color"] == c_id), None)
+        
         nodos_resultado.append({
             "id_nodo": v_id,
             "fase": data_vertice["fase"],
             "nombre": data_vertice["nombre"],
             "fecha": data_vertice["fecha"],
-            "color": {"id": c_id, "etiqueta": color_info["etiqueta"] if color_info else "Conflicto"},
+            "color": {
+                "id": c_id, 
+                "etiqueta": color_info["etiqueta"] if color_info else "Conflicto",
+                "pais": color_info["pais"] if color_info else "N/A"  # <-- NUEVA ADAPTACIÓN
+            },
         })
 
     return {
@@ -52,7 +56,6 @@ def _construir_respuesta(vertices: dict, aristas: list, etiqueta: str) -> dict:
         "numero_cromatico_chi": num_cromatico,
         "nodos_coloreados": nodos_resultado,
     }
-
 
 @router.get("/pura")
 def ejecutar_completo():

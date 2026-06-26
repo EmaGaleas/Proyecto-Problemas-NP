@@ -80,8 +80,8 @@ def coloracion_arbitros(
                 # tiempo es O(1) 
                 break
         else:
-            # tiempo es O(1) 
+            # tiempo es O(1) - Advertencia
             warnings.warn(f"Partido {u} no pudo ser asignado: personal agotado.")
 
-    # tiempo es O(1)
-    return asignacion_arbitros, len(arbitros_activos), capacidades_actuales-
+    # tiempo es O(1) - Retorno
+    return asignacion_arbitros, len(arbitros_activos), capacidades_actuales
