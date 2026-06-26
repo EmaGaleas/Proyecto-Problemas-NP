@@ -107,19 +107,19 @@ export default function Landing() {
                     : 'opacity-0 translate-x-24 scale-95 pointer-events-none'
                 }`}
               >
-                {/* Contenedor de la tarjeta */}
-                <div className="relative w-full max-w-2xl xl:max-w-5xl max-h-[75vh] aspect-[16/9] rounded-2xl shadow-2xl overflow-hidden flex items-center justify-center bg-black/20">
+                {/* Contenedor de la tarjeta modificado */}
+                <div className="relative w-full max-w-md md:max-w-2xl xl:max-w-4xl h-[70vh] rounded-3xl shadow-2xl overflow-hidden flex items-center justify-center bg-black">
                   <img 
                     src={tarjeta.img} 
                     alt={`Algoritmo ${index}`} 
-                    className="w-full h-full object-contain md:object-cover pointer-events-none" 
+                    className="w-full h-full object-contain pointer-events-none " 
                   />
                   
                   {/* Botón GO Dorado */}
                   <button
                     onClick={() => navigate(tarjeta.ruta)}
                     className="
-                      absolute bottom-[5%] left-[3.5%] md:left-[3%]
+                      absolute bottom-[5%] left-[3%] md:left-[2.5%]
                       w-14 h-14 md:w-16 md:h-16 rounded-full
                       border-2 border-[#BF953F]/70 bg-black/50 backdrop-blur-sm
                       flex items-center justify-center text-[#FCF6BA] text-xl md:text-2xl font-black tracking-wider
@@ -128,8 +128,8 @@ export default function Landing() {
                       hover:text-black hover:scale-110 hover:border-white
                       hover:shadow-[0_0_25px_rgba(252,246,186,0.7)]
                       cursor-pointer group
-                      animate-pulse hover:animate-none"
-                    title="Ingresar al Algoritmo"
+                      animate-pulse hover:animate-none z-50"
+                    title="Ingresar a la magia del futbol"
                   >
                     <span className="transform transition-transform duration-300 group-hover:scale-105 inline-block font-sans">
                       Go
