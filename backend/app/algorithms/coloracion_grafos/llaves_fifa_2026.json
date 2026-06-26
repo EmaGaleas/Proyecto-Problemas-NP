@@ -1,0 +1,305 @@
+{
+  "torneo": "Copa Mundial de la FIFA 2026™",
+  "fases_eliminatorias": {
+    "dieciseisavos_de_final": [
+      {
+        "id_partido": 73,
+        "fecha": "2026-06-28",
+        "hora": "15:00",
+        "local": "Sudáfrica",
+        "visitante": "Canadá",
+        "estadio": "Estadio Los Ángeles",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 74,
+        "fecha": "2026-06-29",
+        "hora": "16:30",
+        "local": "Alemania",
+        "visitante": "3º Grupo A/B/C/D/F",
+        "estadio": "Estadio Boston",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 75,
+        "fecha": "2026-06-29",
+        "hora": "21:00",
+        "local": "Países Bajos",
+        "visitante": "Marruecos",
+        "estadio": "Estadio Monterrey",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 76,
+        "fecha": "2026-06-29",
+        "hora": "13:00",
+        "local": "Brasil",
+        "visitante": "Japón",
+        "estadio": "Estadio Houston",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 77,
+        "fecha": "2026-06-30",
+        "hora": "17:00",
+        "local": "1º Grupo I",
+        "visitante": "3º Grupo C/D/F/G/H",
+        "estadio": "Estadio Nueva York Nueva Jersey",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 78,
+        "fecha": "2026-06-30",
+        "hora": "13:00",
+        "local": "Costa de Marfil",
+        "visitante": "2º Grupo I",
+        "estadio": "Estadio Dallas",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 79,
+        "fecha": "2026-06-30",
+        "hora": "21:00",
+        "local": "México",
+        "visitante": "3º Grupo C/E/F/H/I",
+        "estadio": "Estadio Ciudad de México",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 80,
+        "fecha": "2026-07-01",
+        "hora": "12:00",
+        "local": "1º Grupo L",
+        "visitante": "3º Grupo E/H/I/J/K",
+        "estadio": "Estadio Atlanta",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 81,
+        "fecha": "2026-07-01",
+        "hora": "20:00",
+        "local": "Estados Unidos",
+        "visitante": "Bosnia y Herzegovina",
+        "estadio": "Estadio Bahía de San Francisco",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 82,
+        "fecha": "2026-07-01",
+        "hora": "16:00",
+        "local": "1º Grupo G",
+        "visitante": "3º Grupo A/E/H/I/J",
+        "estadio": "Estadio Seattle",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 83,
+        "fecha": "2026-07-02",
+        "hora": "19:00",
+        "local": "2º Grupo K",
+        "visitante": "2º Grupo L",
+        "estadio": "Estadio Toronto",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 84,
+        "fecha": "2026-07-02",
+        "hora": "15:00",
+        "local": "1º Grupo H",
+        "visitante": "2º Grupo J",
+        "estadio": "Estadio Los Ángeles",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 85,
+        "fecha": "2026-07-02",
+        "hora": "23:00",
+        "local": "Suiza",
+        "visitante": "3º Grupo E/F/G/I/J",
+        "estadio": "Estadio BC Place Vancouver",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 86,
+        "fecha": "2026-07-03",
+        "hora": "18:00",
+        "local": "Argentina",
+        "visitante": "2º Grupo H",
+        "estadio": "Estadio Miami",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 87,
+        "fecha": "2026-07-03",
+        "hora": "21:30",
+        "local": "1º Grupo K",
+        "visitante": "3º Grupo D/E/I/J/L",
+        "estadio": "Estadio Kansas City",
+        "proviene_de": null
+      },
+      {
+        "id_partido": 88,
+        "fecha": "2026-07-03",
+        "hora": "14:00",
+        "local": "Australia",
+        "visitante": "2º Grupo G",
+        "estadio": "Estadio Dallas",
+        "proviene_de": null
+      }
+    ],
+    "octavos_de_final": [
+      {
+        "id_partido": 89,
+        "fecha": "2026-07-04",
+        "hora": "17:00",
+        "local": "Ganador Partido 74",
+        "visitante": "Ganador Partido 77",
+        "estadio": "Estadio Filadelfia",
+        "proviene_de": {"local_partido_id": 74, "visitante_partido_id": 77}
+      },
+      {
+        "id_partido": 90,
+        "fecha": "2026-07-04",
+        "hora": "13:00",
+        "local": "Ganador Partido 73",
+        "visitante": "Ganador Partido 75",
+        "estadio": "Estadio Houston",
+        "proviene_de": {"local_partido_id": 73, "visitante_partido_id": 75}
+      },
+      {
+        "id_partido": 91,
+        "fecha": "2026-07-05",
+        "hora": "16:00",
+        "local": "Ganador Partido 76",
+        "visitante": "Ganador Partido 78",
+        "estadio": "Estadio Nueva York Nueva Jersey",
+        "proviene_de": {"local_partido_id": 76, "visitante_partido_id": 78}
+      },
+      {
+        "id_partido": 92,
+        "fecha": "2026-07-05",
+        "hora": "20:00",
+        "local": "Ganador Partido 79",
+        "visitante": "Ganador Partido 80",
+        "estadio": "Estadio Ciudad de México",
+        "proviene_de": {"local_partido_id": 79, "visitante_partido_id": 80}
+      },
+      {
+        "id_partido": 93,
+        "fecha": "2026-07-06",
+        "hora": "15:00",
+        "local": "Ganador Partido 83",
+        "visitante": "Ganador Partido 84",
+        "estadio": "Estadio Dallas",
+        "proviene_de": {"local_partido_id": 83, "visitante_partido_id": 84}
+      },
+      {
+        "id_partido": 94,
+        "fecha": "2026-07-06",
+        "hora": "20:00",
+        "local": "Ganador Partido 81",
+        "visitante": "Ganador Partido 82",
+        "estadio": "Estadio Seattle",
+        "proviene_de": {"local_partido_id": 81, "visitante_partido_id": 82}
+      },
+      {
+        "id_partido": 95,
+        "fecha": "2026-07-07",
+        "hora": "12:00",
+        "local": "Ganador Partido 86",
+        "visitante": "Ganador Partido 88",
+        "estadio": "Estadio Atlanta",
+        "proviene_de": {"local_partido_id": 86, "visitante_partido_id": 88}
+      },
+      {
+        "id_partido": 96,
+        "fecha": "2026-07-07",
+        "hora": "16:00",
+        "local": "Ganador Partido 85",
+        "visitante": "Ganador Partido 87",
+        "estadio": "Estadio BC Place Vancouver",
+        "proviene_de": {"local_partido_id": 85, "visitante_partido_id": 87}
+      }
+    ],
+    "cuartos_de_final": [
+      {
+        "id_partido": 97,
+        "fecha": "2026-07-09",
+        "hora": "16:00",
+        "local": "Ganador Partido 89",
+        "visitante": "Ganador Partido 90",
+        "estadio": "Estadio Boston",
+        "proviene_de": {"local_partido_id": 89, "visitante_partido_id": 90}
+      },
+      {
+        "id_partido": 98,
+        "fecha": "2026-07-10",
+        "hora": "15:00",
+        "local": "Ganador Partido 93",
+        "visitante": "Ganador Partido 94",
+        "estadio": "Estadio Los Ángeles",
+        "proviene_de": {"local_partido_id": 93, "visitante_partido_id": 94}
+      },
+      {
+        "id_partido": 99,
+        "fecha": "2026-07-11",
+        "hora": "17:00",
+        "local": "Ganador Partido 91",
+        "visitante": "Ganador Partido 92",
+        "estadio": "Estadio Miami",
+        "proviene_de": {"local_partido_id": 91, "visitante_partido_id": 92}
+      },
+      {
+        "id_partido": 100,
+        "fecha": "2026-07-11",
+        "hora": "21:00",
+        "local": "Ganador Partido 95",
+        "visitante": "Ganador Partido 96",
+        "estadio": "Estadio Kansas City",
+        "proviene_de": {"local_partido_id": 95, "visitante_partido_id": 96}
+      }
+    ],
+    "semifinales": [
+      {
+        "id_partido": 101,
+        "fecha": "2026-07-14",
+        "hora": "15:00",
+        "local": "Ganador Partido 97",
+        "visitante": "Ganador Partido 98",
+        "estadio": "Estadio Dallas",
+        "proviene_de": {"local_partido_id": 97, "visitante_partido_id": 98}
+      },
+      {
+        "id_partido": 102,
+        "fecha": "2026-07-15",
+        "hora": "15:00",
+        "local": "Ganador Partido 99",
+        "visitante": "Ganador Partido 100",
+        "estadio": "Estadio Atlanta",
+        "proviene_de": {"local_partido_id": 99, "visitante_partido_id": 100}
+      }
+    ],
+    "tercer_puesto": [
+      {
+        "id_partido": 103,
+        "fecha": "2026-07-18",
+        "hora": "17:00",
+        "local": "Perdedor Partido 101",
+        "visitante": "Perdedor Partido 102",
+        "estadio": "Estadio Miami",
+        "proviene_de": {"local_partido_id": 101, "visitante_partido_id": 102}
+      }
+    ],
+    "final": [
+      {
+        "id_partido": 104,
+        "fecha": "2026-07-19",
+        "hora": "15:00",
+        "local": "Ganador Partido 101",
+        "visitante": "Ganador Partido 102",
+        "estadio": "Estadio Nueva York Nueva Jersey",
+        "proviene_de": {"local_partido_id": 101, "visitante_partido_id": 102}
+      }
+    ]
+  }
+}
