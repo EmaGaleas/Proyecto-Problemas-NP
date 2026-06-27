@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import benchmark, results, coloracion # Agregamos tu import
+from app.routers import benchmark, results, coloracion, knapsack
 
 app = FastAPI(title="NP Algorithms Benchmark", version="1.0.0")
 
@@ -17,3 +17,4 @@ app.include_router(results.router,   prefix="/results",   tags=["Results"])
 
 # Agregas tu módulo
 app.include_router(coloracion.router, prefix="/coloracion", tags=["Coloración de Grafos"])
+app.include_router(knapsack.router, prefix="/knapsack", tags=["Knapsack 11 Titular"])
