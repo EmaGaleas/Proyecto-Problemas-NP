@@ -1,191 +1,1100 @@
 [
     {
-        "fecha_hora": "2026-06-26 15:12:42",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.161,
+        "fecha_hora": "2026-06-26 20:39:18",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1792,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:19:57",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.1599,
+        "fecha_hora": "2026-06-26 20:39:18",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.2175,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:20:06",
+        "fecha_hora": "2026-06-26 20:39:18",
         "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.1774,
+        "tiempo_ejecucion_ms": 0.2478,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:23:08",
+        "fecha_hora": "2026-06-26 20:39:21",
         "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.2938,
+        "tiempo_ejecucion_ms": 0.2761,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:24:34",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.1933,
+        "fecha_hora": "2026-06-26 20:39:22",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.2219,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:33:34",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.1873,
+        "fecha_hora": "2026-06-26 20:39:22",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.3417,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:36:33",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.207,
+        "fecha_hora": "2026-06-26 20:39:22",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.3006,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 15:40:00",
-        "solicitud": "GET /coloracion/fase/octavos (8 Nodos)",
-        "tiempo_ejecucion_ms": 0.0799,
-        "datos_procesados": {
-            "nodos": 8,
-            "aristas": 4
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 15:40:16",
-        "solicitud": "GET /coloracion/fase/octavos (8 Nodos)",
-        "tiempo_ejecucion_ms": 0.044,
-        "datos_procesados": {
-            "nodos": 8,
-            "aristas": 4
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 16:15:50",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.1432,
+        "fecha_hora": "2026-06-26 20:39:22",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1916,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 16:15:50",
-        "solicitud": "GET /coloracion/fase/dieciseisavos (16 Nodos)",
-        "tiempo_ejecucion_ms": 0.0564,
-        "datos_procesados": {
-            "nodos": 16,
-            "aristas": 15
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 16:15:50",
-        "solicitud": "GET /coloracion/fase/octavos (8 Nodos)",
-        "tiempo_ejecucion_ms": 0.0343,
-        "datos_procesados": {
-            "nodos": 8,
-            "aristas": 4
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 16:15:50",
-        "solicitud": "GET /coloracion/fase/cuartos (4 Nodos)",
-        "tiempo_ejecucion_ms": 0.0228,
-        "datos_procesados": {
-            "nodos": 4,
-            "aristas": 1
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 16:15:50",
-        "solicitud": "GET /coloracion/fase/semifinales (2 Nodos)",
-        "tiempo_ejecucion_ms": 0.017,
-        "datos_procesados": {
-            "nodos": 2,
-            "aristas": 0
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 16:15:50",
-        "solicitud": "GET /coloracion/fase/final (2 Nodos)",
-        "tiempo_ejecucion_ms": 0.0261,
-        "datos_procesados": {
-            "nodos": 2,
-            "aristas": 0
-        }
-    },
-    {
-        "fecha_hora": "2026-06-26 16:56:22",
-        "solicitud": "GET /coloracion/pura (32 Nodos)",
-        "tiempo_ejecucion_ms": 0.1958,
+        "fecha_hora": "2026-06-26 20:39:22",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1996,
         "datos_procesados": {
             "nodos": 32,
-            "aristas": 20
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 16:56:22",
-        "solicitud": "GET /coloracion/fase/dieciseisavos (16 Nodos)",
-        "tiempo_ejecucion_ms": 0.1229,
+        "fecha_hora": "2026-06-26 20:39:31",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.3982,
         "datos_procesados": {
-            "nodos": 16,
-            "aristas": 15
+            "nodos": 32,
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 16:56:22",
-        "solicitud": "GET /coloracion/fase/octavos (8 Nodos)",
-        "tiempo_ejecucion_ms": 0.0477,
+        "fecha_hora": "2026-06-26 20:39:32",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.2191,
         "datos_procesados": {
-            "nodos": 8,
-            "aristas": 4
+            "nodos": 32,
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 16:56:22",
-        "solicitud": "GET /coloracion/fase/cuartos (4 Nodos)",
-        "tiempo_ejecucion_ms": 0.0367,
+        "fecha_hora": "2026-06-26 20:39:34",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.2257,
         "datos_procesados": {
-            "nodos": 4,
-            "aristas": 1
+            "nodos": 32,
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 16:56:22",
-        "solicitud": "GET /coloracion/fase/semifinales (2 Nodos)",
-        "tiempo_ejecucion_ms": 0.0232,
+        "fecha_hora": "2026-06-26 20:39:35",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.3631,
         "datos_procesados": {
-            "nodos": 2,
-            "aristas": 0
+            "nodos": 32,
+            "aristas": 136
         }
     },
     {
-        "fecha_hora": "2026-06-26 16:56:22",
-        "solicitud": "GET /coloracion/fase/final (2 Nodos)",
-        "tiempo_ejecucion_ms": 0.0295,
+        "fecha_hora": "2026-06-26 20:39:40",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1608,
         "datos_procesados": {
-            "nodos": 2,
-            "aristas": 0
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:39:43",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1624,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:39:53",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.276,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:03",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1882,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:04",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1735,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:16",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1613,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:16",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.3333,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:17",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1761,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:51",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.3333,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:54",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1832,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:55",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1713,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:56",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.166,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:40:57",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1801,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:01",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.158,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:02",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1625,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:03",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1625,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:04",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1788,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:05",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1767,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:07",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1859,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:07",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1569,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:08",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1591,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:08",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1586,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:10",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.171,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:10",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1666,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:11",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.2373,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:13",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1668,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:13",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1625,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:14",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.3584,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:15",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.2817,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:17",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1649,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:19",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.2582,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:20",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1668,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:21",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.164,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:23",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1761,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:24",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1857,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:24",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.187,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:25",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.2319,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:26",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1617,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:28",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1689,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:30",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1656,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:32",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1836,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:35",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1804,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:36",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.2272,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:48",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.2952,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:41:48",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.2326,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:36",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.335,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:43",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1674,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:43",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1846,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:44",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.172,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:45",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1577,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:45",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.18,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:46",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1592,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:42:47",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1639,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:43:05",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1672,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:43:14",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1784,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:07",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.2115,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:28",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.2332,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:28",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1598,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:47",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1653,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:49",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.163,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:49",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1618,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:49",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1659,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:50",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1688,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:50",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1737,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:54",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1726,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:57",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.2214,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:58",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1689,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:46:59",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1609,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:47:16",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1672,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:47:16",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1643,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:47:16",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1632,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:47:17",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1626,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:47:17",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1654,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:49:21",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1686,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:49:21",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.2283,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:50:07",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1863,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:51:55",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.3037,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:51:56",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1622,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:52:36",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1448,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:52:50",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.2275,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:53:32",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.2206,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:02",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1634,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:04",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.221,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:07",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1667,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:08",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.2869,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:11",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1655,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:19",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1635,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:22",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1617,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:23",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1644,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:26",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.254,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:54:27",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1627,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:56:31",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1639,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 20:56:36",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1651,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:01:32",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1819,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:23",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1632,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:23",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.2217,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:24",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1727,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:25",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1637,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:25",
+        "solicitud": "GET /coloracion/fase/final",
+        "tiempo_ejecucion_ms": 0.1621,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:29",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1771,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:02:54",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1659,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:03:10",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1618,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:03:52",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1677,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:03:53",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1639,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:04:39",
+        "solicitud": "GET /coloracion/fase/dieciseisavos",
+        "tiempo_ejecucion_ms": 0.1997,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:04:41",
+        "solicitud": "GET /coloracion/fase/octavos",
+        "tiempo_ejecucion_ms": 0.1616,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:04:48",
+        "solicitud": "GET /coloracion/fase/cuartos",
+        "tiempo_ejecucion_ms": 0.1647,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:04:50",
+        "solicitud": "GET /coloracion/fase/semifinales",
+        "tiempo_ejecucion_ms": 0.1658,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
+        }
+    },
+    {
+        "fecha_hora": "2026-06-26 21:05:47",
+        "solicitud": "GET /coloracion/pura (32 Nodos)",
+        "tiempo_ejecucion_ms": 0.1705,
+        "datos_procesados": {
+            "nodos": 32,
+            "aristas": 136
         }
     }
 ]
