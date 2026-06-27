@@ -21,8 +21,8 @@ export default function TSP() {
       {/* Contenido principal de tu algoritmo */}
       <div className="z-10 text-center">
         <h1 className="text-4xl font-black tracking-wider uppercase mb-4">Traveling Salesman Problem (TSP)</h1>
-        <div className="p-6 bg-black/30 backdrop-blur-sm border border-white/10 rounded-2xl max-w-md">
-          <p className="text-gray-300">Espacio de trabajo para la optimización de rutas del torneo.</p>
+        <div className="p-6 bg-black/30 backdrop-blur-sm border border-white/10 rounded-2xl w-full" onClick={() => navigate("/tsp_showcase")}>
+          <p className="text-gray-300">START</p>
         </div>
       </div>
     </div>

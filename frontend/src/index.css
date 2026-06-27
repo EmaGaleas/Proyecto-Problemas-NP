@@ -1,2 +1,25 @@
 @import "tailwindcss";
 
+@keyframes tsp-pulse {
+  0% {
+    r: 13;
+    opacity: 0.5;
+  }
+  50% {
+    r: 18;
+    opacity: 0.15;
+  }
+  100% {
+    r: 13;
+    opacity: 0.5;
+  }
+}
+
+#tsp-page button:hover {
+  filter: brightness(1.15);
+  transform: translateY(-1px);
+}
+
+#tsp-page button:active {
+  transform: translateY(0);
+}
